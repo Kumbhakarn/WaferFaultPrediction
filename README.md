@@ -7,7 +7,7 @@ The aim of this project is to develop an automated sensor fault detection system
 💿 Installing
 1. Environment setup.
 ```
-conda create --prefix venv python==3.8 -y
+conda create --prefix venv python==3.10 -y
 ```
 ```
 conda activate venv/
